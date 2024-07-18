@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 
 
-public class Reverse_string {
+public class Reverse_string_1_exercise {
 
 	public static void main(String[] args) {
 		
